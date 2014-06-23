@@ -1,0 +1,14 @@
+client;Intertrans;55241341 
+dates;7/5/2010;101;400;y;n;n;s
+client;DreamWays;03574575
+dates;10/1/2010;104;80;n;n;y;
+dates;10/1/2010;105;80;n;y;n;
+client;ProgramSoft;1233445
+dates;12/1/2010;102;180;y;n;n;
+dates;12/1/2010;103;100;n;y;n;
+client;giannis meletakis;xewrefdsfd
+dates;13/11/2010;106;200;n;n;n;
+client;pliroforiki;12345
+dates;30/0/2011;203;200;n;n;n;
+client;giannis meletakis;12345
+dates;11/0/1011;202;400;n;n;n;

@@ -1,0 +1,23 @@
+client;Takis Ioannou;AB324458
+dates;22/1/2010;25/1/2010
+room;501;2
+room;502;2
+client;Maria Antwniou;P354577
+dates;1/1/2010;5/1/2010
+room;603;5;y;y;n;n
+client;Kostas Basileiadis;AA154574
+dates;2/2/2010;9/2/2010
+room;303;3
+room;304;3
+client;Pantelis Georgiadis;Z454714
+dates;12/1/2010;21/1/2010
+room;403;2
+room;406;3
+client;giannis meletakis;20747
+dates;11/0/2011;14/0/2011
+room;601;4;y;y;n;n
+room;603;5;y;y;n;n
+client;giannis;1234
+dates;12/0/1988;14/0/1988
+room;603;5;y;y;y;y
+room;607;2;n;n;n;n
